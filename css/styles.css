@@ -1,0 +1,13 @@
+.myButtons {
+  width: 13%;
+  height: 20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 900;
+}
+
+.myDisplay {
+  height: 40%;
+  border: 5px solid #ffffff;
+}
