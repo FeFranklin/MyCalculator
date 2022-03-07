@@ -66,7 +66,8 @@ Use this space to show useful examples of how a project can be used. Additional 
 - [x] Add Readme
 - [x] Add base template with bootstrap
 - [x] Setup Github Pages
-- [ ] Add Calculator keyboard
+- [x] Add Calculator keyboard
+- [ ] Numbers to display
 - [ ] Add basic funcitons
 - [ ] Multi-language Support
     - [ ] Portuguese
