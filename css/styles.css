@@ -1,3 +1,7 @@
+body {
+  font-family: 'Quantico', sans-serif;
+}
+
 .myButtons {
   width: 13%;
   height: 20%;
@@ -8,6 +12,7 @@
 }
 
 .myDisplay {
+  width: 55%;
   height: 40%;
   border: 5px solid #ffffff;
 }
