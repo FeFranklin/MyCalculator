@@ -16,3 +16,7 @@ body {
   height: 40%;
   border: 5px solid #ffffff;
 }
+
+.mainDisplay, .secondaryDisplay {
+  float: right;
+}
